@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+	margin:0 auto;
+	width:500px;	
+	border:solid 3px #0f73ff;
+	border-radius:20px;
+}
+table tr{
+	height:30px;
+}
+.return{
+	margin-top:30px;
+	display:block;
+	height:30px;
+	color:#333;
+	text-decoration:none;
+}
+.modify{
+	margin-top:30px;
+	width:60px;
+}

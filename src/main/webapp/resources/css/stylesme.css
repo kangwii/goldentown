@@ -1,0 +1,30 @@
+@charset "utf-8";
+.features-icons{
+    background-color: black;
+}
+.features-icons-icon{
+    margin-bottom: 40px;}
+
+.golden-back{
+    background-color:#ffffff;
+}
+.text-center .golden-mb5{
+    font-size: 30px;
+}
+.col-lg-6 h2{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.list-inline li a{
+    text-decoration: none;
+    color:cadetblue
+}
+/* .innerAc{ */
+/* 	position:absolute; */
+/* 	bottom:8px; */
+/* 	right:150px; */
+/* } */
+.find{
+	text-decoration:none;
+}

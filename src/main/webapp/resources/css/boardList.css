@@ -1,0 +1,114 @@
+@charset "UTF-8";
+ul li{
+	list-style:none;		
+}
+ul{
+	display:flex;
+}
+.table{
+	margin:0 auto;
+	width:500px;	
+	border:solid 3px #0f73ff;
+	border-radius:20px;
+}
+.boardHeader{
+	padding-top:15px;
+	display:flex;
+	justify-content:space-between;
+}
+
+.boardHeader a{
+	color:#333;
+	text-decoration:none;
+	margin:20px;
+}
+.mTitle{	
+	text-align:center;
+	font-size:40px;
+	font-weight:bold;
+	margin-right:20px;
+}
+.homeLink{
+	font-size:25px;
+}
+.titleList{
+	font-size:21px;	
+}
+.title{
+	padding-left:20px;
+}
+.sTitle{
+	width:130px;
+}
+.showList{
+	font-size:18px;	
+}
+.titleList .number{
+	width:70px;
+}
+.date{
+	font-size:16px;
+}
+.date,.sDate{
+	padding-left:20px;
+}
+.sDate{
+	font-size:15px;
+}
+.innerTitle{
+	text-decoration:none;	
+	color:#333;
+}
+.writer,.sWriter{
+	padding-left:10px;
+}
+.count,.sScount{
+	padding-left:20px;
+}
+.sCount{
+	padding-left:40px;
+}
+
+.search{
+	height:50px;
+}
+
+.bottomForm{
+	margin-left:100px;
+}
+
+.numStyle,.prevStyle,.nextStyle,.write,.reLogin{
+	margin-right:18px;
+	text-decoration:none;
+	color:#222;
+}
+.writer{
+	width:80px;
+}
+.count{
+	width:70px;
+}
+
+.loginPlease{
+	margin:20px 0;
+}
+.search{
+	height:30px;
+	font-size:20px;
+}
+.textInput{
+	height:24px;
+	font-size:20px;
+}
+
+.button{
+	width:130px;
+	font-size:20px;
+}
+
+.pageNo:hover{	
+	cursor:pointer;
+}
+
+
+

@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body{
+	margin:0 auto;
+	width:500px;	
+	border:solid 3px #0f73ff;
+	border-radius:20px;
+}
+.container{
+	text-align:center;
+}
+
+.number,.title,.upWriter,.content{
+	height:50px;
+}
+.contentInner{
+	height:150px;
+	font-size:20px;
+}
+
+.sndTable{
+	margin-left:25%;
+}
+.sndTable a{
+	margin:0 10px;
+	text-decoration:none;
+	color:#222;
+}
